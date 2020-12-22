@@ -1,0 +1,6 @@
+
+Web: ":9890"
+GeoJsons:
+  country: ./data/level2/earth_l2.geojson.gz
+  province: ./data/level3-4/1de31a0b3f4cd12f023cf3116a95995f.geojson.gz
+  city: ./data/level5/e16360941e35b68a71987d8123182594.geojson.gz
